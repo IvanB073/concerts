@@ -3,7 +3,6 @@ package c;
 import java.util.Comparator;
 
 public interface Concert {
-	void performerInfo();
 
 	String getBand();
 
